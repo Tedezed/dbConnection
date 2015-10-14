@@ -5,7 +5,7 @@ setup(name="dbConnection",
       description="Ejemplo de aplicacion para conectarse a MySQL, Oracle, MongoDB y POstgreSQL",  
       author="Tedezed",  
       author_email="zerrotchanel@gmail.com",  
-      url="https://github.com/Tedezed/dbConnetion/",  
+      url="https://github.com/Tedezed/dbConnection/",  
       license="GPL",  
       install_requires=[
                         "PyQt4",
